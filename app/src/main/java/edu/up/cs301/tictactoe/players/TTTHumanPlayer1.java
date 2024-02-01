@@ -7,11 +7,11 @@ import android.view.View;
 
 import edu.up.cs301.game.GameFramework.players.GameHumanPlayer;
 import edu.up.cs301.game.GameFramework.GameMainActivity;
-import edu.up.cs301.game.R;
 import edu.up.cs301.game.GameFramework.infoMessage.GameInfo;
 import edu.up.cs301.game.GameFramework.infoMessage.IllegalMoveInfo;
 import edu.up.cs301.game.GameFramework.infoMessage.NotYourTurnInfo;
 import edu.up.cs301.game.GameFramework.utilities.Logger;
+import edu.up.cs301.tictactoe.R;
 import edu.up.cs301.tictactoe.infoMessage.TTTState;
 import edu.up.cs301.tictactoe.tttActionMessage.TTTMoveAction;
 import edu.up.cs301.tictactoe.views.TTTSurfaceView;

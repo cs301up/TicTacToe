@@ -1,4 +1,4 @@
-package edu.up.cs301;
+package edu.up.cs301.tictactoe;
 
 import org.junit.Test;
 
